@@ -1,0 +1,22 @@
+{
+  "name": "LifePlay Sports & Wellness Hub",
+  "short_name": "LifePlay",
+  "description": "Book Badminton & Pickleball slots at LifePlay, Goa",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/rK7qbKfj/Logo-Final.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/rK7qbKfj/Logo-Final.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg"
+    }
+  ]
+}
